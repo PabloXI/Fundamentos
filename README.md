@@ -1,2 +1,2 @@
-# Fundamentos
+# JavaScript
 Principios de progamação
